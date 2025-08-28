@@ -11,7 +11,7 @@ Continuous Integration & Continuous Delivery (CI/CD): Deliver code changes frequ
 Monitoring & Feedback: Track performance and errors in real time, then improve.
 Culture of Ownership: Developers and operations share responsibility for the product’s lifecycle.
 
-## Benefits:
+#Benefits:
 Faster delivery of software
 Higher quality and fewer bugs
 Better collaboration and efficiency
