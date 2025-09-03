@@ -32,7 +32,4 @@ Kanban: Visual workflow using boards/cards to track tasks.
 User Stories: Small, simple descriptions of features from the user’s perspective.
 Continuous Feedback: Customers and stakeholders review frequently.
 
-## 👉 Agile + DevOps = Faster delivery with collaboration, automation, and feedback loops.
 
-#Linux Command
-https://github.com/Amitkumar-Vaghela/Dev-Ops-/tree/main/Linux_CLI
